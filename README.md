@@ -3,3 +3,5 @@ Welcome to my Advent of Code 2024 repository! This project contains my solutions
 
 ## 🛠 About Advent of Code
 Advent of Code is an annual programming event that provides 25 daily coding challenges during December, with problems ranging from simple algorithms to complex puzzles. It’s a fun and educational way to sharpen problem-solving skills while engaging with a global community of developers.
+
+_Full Disclosure_: After ~Day 6 I started modifying some of my part 1 solutions directly in order to solve p2, so most of the later days ONLY include the code to solve p2, although most of them just require a few modifications to solve p1 again.
