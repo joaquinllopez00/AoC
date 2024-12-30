@@ -1,5 +1,5 @@
 import aoc.Day05;
-
+// I stopped using this after day5, day classes now have their own main methods
 public class Main {
     public static void main(String[] args) {
         // Your puzzle input as a string
